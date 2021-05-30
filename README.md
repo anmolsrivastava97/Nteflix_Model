@@ -11,6 +11,8 @@ The repository consists of following files:
 
 **'classified_data.csv:'** Dataset with clustering lables produced after executing clustering notebook
 
+**'Presentation.pdf':** Presentation file of the project
+
 ## Instrunctions to Run
 
 * Clone the repository and install relevant libraries and framewors: (NumPy, Pands, Matplotlib, TensorFlow, Keras, Seaborn, Scikit-learn)
