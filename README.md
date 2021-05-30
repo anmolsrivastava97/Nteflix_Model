@@ -4,8 +4,11 @@
 The repository consists of following files:
 
 **'SE_Anmol_Clustering.ipynb:'** This notebook addresses the clustering part of the project and shows relevant outputs of experiments.
+
 **'schneider_electric-classification.ipynb:'** This notebook addresses the classification part of the project and shows relevant outputs of experiments.
+
 **'netflix_titles.csv:'** Original dataset without any clustering labels
+
 **'classified_data.csv:'** Dataset with clustering lables produced after executing clustering notebook
 
 ## Instrunctions to Run
